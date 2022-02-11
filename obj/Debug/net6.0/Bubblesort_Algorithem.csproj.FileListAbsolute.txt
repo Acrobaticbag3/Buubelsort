@@ -1,0 +1,15 @@
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\bin\Debug\net6.0\Bubblesort_Algorithem.exe
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\bin\Debug\net6.0\Bubblesort_Algorithem.deps.json
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\bin\Debug\net6.0\Bubblesort_Algorithem.runtimeconfig.json
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\bin\Debug\net6.0\Bubblesort_Algorithem.dll
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\bin\Debug\net6.0\ref\Bubblesort_Algorithem.dll
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\bin\Debug\net6.0\Bubblesort_Algorithem.pdb
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.dll
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\ref\Bubblesort_Algorithem.dll
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.pdb
+C:\Users\kevin\Desktop\Bubblesort_Algorithem\obj\Debug\net6.0\Bubblesort_Algorithem.genruntimeconfig.cache
